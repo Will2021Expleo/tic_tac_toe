@@ -4,7 +4,7 @@ body {
 
 .morpion-game {
     max-width: 567px;
-    height: 800px;
+
     background: yellow;
     margin: auto;
     border-radius: 30px;
@@ -27,9 +27,9 @@ h2 {
     height: 65px;
     border-radius: 5px;
     margin-top: 5px;
- display: flex;
- align-items: center;
- justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: rgb(138, 137, 243);
     margin: 0;
 }
