@@ -4,7 +4,7 @@ body {
 
 .morpion-game {
     max-width: 567px;
-
+    height: auto;
     background: yellow;
     margin: auto;
     border-radius: 30px;
